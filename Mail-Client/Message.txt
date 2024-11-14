@@ -1,0 +1,6 @@
+This is the message sent by the anonymous person for a testing purpose.
+
+The mail server is working fine.
+
+
+Happy coding :)

@@ -1,0 +1,34 @@
+I had to create a app password to use this program and send emails
+Log into the google account--> go to security--> 2 factor authentication--> app passwords--> select app--> generate password
+
+App password is stored in the password.txt file
+https://cloudmersive.com/pricing-small-business(USe ful API to scan for malware when doing developing projects)
+
+ideas :
+Error Handling: Implement more robust error handling to gracefully handle exceptions and provide informative error messages to the user.
+
+User Input Validation: Validate user input, such as email addresses and message content, to ensure they meet the required format and prevent potential issues.
+
+Enhanced Message Composition: Allow users to compose emails with rich text formatting, attachments, inline images, and other advanced features.
+
+Configuration File: Instead of hardcoding email addresses and passwords in the script, consider using a configuration file (e.g., JSON or YAML) to store these sensitive details securely.
+
+Logging: Implement logging to track program execution, record errors, and capture important events for debugging and troubleshooting.
+
+Command-line Arguments: Add support for command-line arguments to specify input parameters like sender email, recipient email, subject, and message file.
+
+Interactive Interface: Create an interactive command-line interface or a graphical user interface (GUI) to provide a more user-friendly experience for composing and sending emails.
+
+Multiple Recipients: Allow users to send emails to multiple recipients by accepting a list of email addresses as input.
+
+Email Templates: Provide predefined email templates for common use cases or allow users to save and reuse custom templates.
+
+Security Enhancements: Implement secure protocols (e.g., OAuth) for authentication, encrypt sensitive data, and follow best practices for handling user credentials.
+
+Unit Testing: Write unit tests to validate the functionality of individual components and ensure that changes or updates do not introduce regressions.
+
+Documentation: Document the code thoroughly using comments and docstrings to improve readability and make it easier for other developers to understand and contribute to the project.
+
+Digital Signatures: Enable the option for users to digitally sign their emails to provide authentication and verify the integrity of the message. This can help prevent spoofing and tampering.
+
+Secure Attachment Handling: Implement strict controls for handling attachments, including scanning for malware and validating file types. Consider integrating with antivirus software or using sandboxing techniques to isolate potentially harmful attachments.
